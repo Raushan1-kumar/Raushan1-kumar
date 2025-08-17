@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raushan1-kumar" alt="raushan1-kumar" /></a> </p>
 
-- 🔭 I’m currently working on **AI project**
+- 🔭 I’m currently working on **ML project**
 
-- 🌱 I’m currently learning **Redux, Angular, Deep Knowledge for Authentication**
+- 🌱 I’m currently learning **ML, CICD, AWS, Deep Knowledge for Authentication**
 
-- 👯 I’m looking to collaborate on **AI related project**
+- 👯 I’m looking to collaborate on **AI + FULL STACK  project**
 
-- 💬 Ask me about **react, javascript,**
+- 💬 Ask me about **react, javascript, java,**
 
 - 📫 How to reach me **raushansahu147@gmail.com**
 
